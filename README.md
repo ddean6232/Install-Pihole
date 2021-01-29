@@ -17,7 +17,7 @@ Free: open source software which helps ensure you are the sole person in control
 
 On Ubuntu on Raspberry Pi Zero with ethernet hat
 
-One-Step Automated Install  
+# One-Step Automated Install  
 Those who want to get started quickly and conveniently may install Pi-hole using the following command:  
 
 `curl -sSL https://install.pi-hole.net | bash`
